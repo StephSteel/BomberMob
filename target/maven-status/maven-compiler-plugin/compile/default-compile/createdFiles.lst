@@ -1,0 +1,5 @@
+dev\steph\bombermob\listener\InteractListener.class
+dev\steph\bombermob\mob\Bomber$1.class
+dev\steph\bombermob\command\BomberSpawnEggCommand.class
+dev\steph\bombermob\mob\Bomber.class
+dev\steph\bombermob\BomberMob.class

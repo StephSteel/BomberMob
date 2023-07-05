@@ -1,0 +1,7 @@
+name: BomberMob
+version: '1.0'
+main: dev.steph.bombermob.BomberMob
+api-version: '1.19'
+commands:
+  givebomberspawnegg:
+    description: Gives a bomber spawn egg
